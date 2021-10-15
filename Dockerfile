@@ -9,3 +9,4 @@ COPY --from=builder /main ./
 RUN chmod +x ./main
 ENTRYPOINT ["./main"]
 EXPOSE 8080
+
