@@ -1,2 +1,5 @@
 var
 bin
+pkg
+go.mod
+go.sum
